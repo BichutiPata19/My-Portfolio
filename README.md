@@ -1,8 +1,5 @@
-# MScDSB-MDS273-23122133-Siddhartha
 Name: Siddhartha Sinha
 
-Class: 2MSc DS B
-
-Register Number: 23122133
+Phone Number: +91 8582873442
 
 Email: siddhartha.sinha@msds.christuniversity.in
